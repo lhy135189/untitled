@@ -6,7 +6,7 @@ import java.awt.event.ActionListener;
 
 import static com.apple.chapter.ten.Ceshi.closeThis;
 
-public class UserInte {
+public class UserInterface {
     public static void main(String[] args) {
         JFrame frame = new JFrame("用户登录");
         frame.setSize(450, 200);
